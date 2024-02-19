@@ -1,2 +1,2 @@
-# A-Study-on-Machine-Unlearning
-A Study on Machine Unlearning
+# DLS_Final_Project
+DLS Final Project
