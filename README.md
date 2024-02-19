@@ -1,2 +1,1 @@
-# DLS_Final_Project
-DLS Final Project
+# Machine Unlearning - Class and Item based
